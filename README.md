@@ -10,4 +10,4 @@ analysis tasks effectively and efficiently. With its comprehensive set of featur
 and user-friendly interface, Numpro is a valuable resource for anyone working 
 with numerical methods and mathematical modeling.\
 Interface:\
-[Click here](https://drive.google.com/file/d/1SBC5j2PHwUjIX478b_CClCUx5oOmSRbH/view?usp=drive_link)\
+[Click here](https://drive.google.com/file/d/1SBC5j2PHwUjIX478b_CClCUx5oOmSRbH/view?usp=drive_link)
